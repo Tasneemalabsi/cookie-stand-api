@@ -25,6 +25,6 @@ Template Project for starting up CRUD API with Django Rest Framework
 
 ## Pull Request and Deployment links:
 
-Pull request link: [PR-link]()
+Pull request link: [PR-link](https://github.com/Tasneemalabsi/cookie-stand-api/pull/1)
 
 Deployment link: [Heroku](https://cookie-stand-api11.herokuapp.com/)
